@@ -83,7 +83,7 @@ export default {
     },
   },
   generate: {
-    dir: './dist',
+    dir: './docs',
   },
   build: {
     target: 'static',
