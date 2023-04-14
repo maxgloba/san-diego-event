@@ -1,0 +1,188 @@
+[
+  {
+    "name": "1",
+    "type": "tel",
+    "required": true,
+    "placeholder": "-xxx-xxx-xxxx",
+    "question": "Phone"
+  },
+  {
+    "name": "2",
+    "type": "text",
+    "required": true,
+    "placeholder": "(short input)",
+    "question": "Company Name"
+  },
+  {
+    "name": "3",
+    "type": "radio",
+    "required": true,
+    "question": "Position",
+    "answers": [
+      "Owner",
+      "Executive",
+      "Manager",
+      "Director",
+      "Operator",
+      "Specialist"
+    ]
+  },
+  {
+    "name": "4",
+    "type": "radio",
+    "required": true,
+    "question": "Sweatshirt Size",
+    "answers": [
+      "Small",
+      "Medium",
+      "Large",
+      "XL",
+      "XXL"
+    ]
+  },
+  {
+    "name": "5",
+    "type": "radio",
+    "required": true,
+    "question": "Dietary Restriction",
+    "chainInput": {
+      "name": "8",
+      "type": "text",
+      "placeholder": "(short input 250 characters)",
+      "question": "Dietary Restriction"
+    },
+    "answers": [
+      "No",
+      "Yes"
+    ]
+  },
+  {
+    "name": "6",
+    "type": "agree",
+    "required": true,
+    "question": "Confirm that you read and understand the Covid Waiver by clicking the box below <a href='#'>“Covid Waiver”</a>"
+  },
+  {
+    "name": "7",
+    "type": "radio",
+    "required": true,
+    "question": "Have you been to a GeekOut Event before?",
+    "answers": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "name": "8",
+    "type": "radio",
+    "required": true,
+    "question": "Are you currently advertising on Amazon?",
+    "answers": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "name": "9",
+    "type": "radio",
+    "required": true,
+    "question": "Do you create your own ad content?",
+    "answers": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "name": "10",
+    "type": "text",
+    "required": true,
+    "placeholder": "(short input 250 characters)",
+    "question": "Please describe your business and what you usually do?"
+  },
+  {
+    "name": "11",
+    "type": "radio",
+    "required": true,
+    "question": "What are you most excited to learn about?",
+    "answers": [
+      "Business Growth",
+      "Client Acquisition",
+      "Lead Generation",
+      "Leadership Development",
+      "Media Buying",
+      "Native Ads",
+      "Social Media Marketing"
+    ]
+  },
+  {
+    "name": "12",
+    "type": "radio",
+    "required": true,
+    "question": "Who are the types of people you want to connect with?",
+    "answers": [
+      "Business Owner / CEO",
+      "Agency Owner",
+      "Ecommerce",
+      "Brand Ambassador",
+      "Director",
+      "Executive Assistant",
+      "Founder",
+      "Manager",
+      "Operator"
+    ]
+  },
+  {
+    "name": "13",
+    "type": "text",
+    "required": true,
+    "placeholder": "(short input 250 characters)",
+    "question": "What is the biggest opportunity in your business today?"
+  },
+  {
+    "name": "14",
+    "type": "radio",
+    "required": true,
+    "question": "What marketing channel commands the most budget?",
+    "answers": [
+      "Amazon",
+      "Bing Ads",
+      "Websitee",
+      "Blog",
+      "Google Ads",
+      "Facebook / Instagram",
+      "Lead generation",
+      "LinkedIn Ads",
+      "Native Ads",
+      "Networking",
+      "TikTok"
+    ]
+  },
+  {
+    "name": "15",
+    "type": "radio",
+    "required": true,
+    "question": "What is your yearly revenue?",
+    "answers": [
+      "$0-$100,000",
+      "$100,001-$1,000,000",
+      "$1,000,001-$5,000,000",
+      "$5,000,001-$50,000,000",
+      "$50,000,001-$100,000,000",
+      "$100,000,000+"
+    ]
+  },
+  {
+    "name": "16",
+    "type": "text",
+    "required": true,
+    "placeholder": "(short input 250 characters)",
+    "question": "What would make this the best event you’ve ever been to?"
+  },
+  {
+    "name": "17",
+    "type": "file",
+    "required": false,
+    "placeholder": "(jpg, png, 10MB max size)",
+    "question": "Upload Personal Photo"
+  }
+]
