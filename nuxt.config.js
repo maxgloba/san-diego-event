@@ -72,7 +72,7 @@ export default {
     ],
   },
   router: {
-    base: '/',
+    base: '/san-diego-event/',
     mode: 'history',
     extendRoutes(routes, resolve) {
       routes.push({
