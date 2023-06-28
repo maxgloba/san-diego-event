@@ -1,0 +1,53 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Banner": {
+    "description": "Auto imported from components/Banner.vue"
+  },
+  "Benefits": {
+    "description": "Auto imported from components/Benefits.vue"
+  },
+  "Canvas": {
+    "description": "Auto imported from components/Canvas.vue"
+  },
+  "Chart": {
+    "description": "Auto imported from components/Chart.vue"
+  },
+  "ChartSection": {
+    "description": "Auto imported from components/ChartSection.vue"
+  },
+  "Countdown": {
+    "description": "Auto imported from components/Countdown.vue"
+  },
+  "Flashback": {
+    "description": "Auto imported from components/Flashback.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LastSection": {
+    "description": "Auto imported from components/LastSection.vue"
+  },
+  "Schedule": {
+    "description": "Auto imported from components/Schedule.vue"
+  },
+  "Sponsors": {
+    "description": "Auto imported from components/Sponsors.vue"
+  },
+  "StickyBar": {
+    "description": "Auto imported from components/StickyBar.vue"
+  },
+  "Testimonials": {
+    "description": "Auto imported from components/Testimonials.vue"
+  },
+  "TextHead": {
+    "description": "Auto imported from components/TextHead.vue"
+  },
+  "Topics": {
+    "description": "Auto imported from components/Topics.vue"
+  },
+  "Vsl": {
+    "description": "Auto imported from components/Vsl.vue"
+  }
+}

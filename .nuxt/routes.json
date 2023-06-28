@@ -1,0 +1,15 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Macintosh HD - Data/WORK/mg-events/san-diego-event/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6fdc65d0"
+  },
+  {
+    "name": "error",
+    "path": "*",
+    "component": "/Volumes/Macintosh HD - Data/WORK/mg-events/san-diego-event/pages/index.vue",
+    "_name": "_6fdc65d0"
+  }
+]
